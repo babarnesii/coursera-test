@@ -1,0 +1,103 @@
+body {
+	font-size: 16px;
+	color: red;
+	background-color: black;
+	font: sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: red;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-default {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	text-align: left;
+}
+
+section {
+	border: 1px red;
+	width: 300px;
+	height: 200px;
+	font-family: sans-serif;
+	color: black;
+	position: relative;
+	float: left;
+	margin: 10px;
+	text-align: left;
+}
+
+h2 {
+	position: absolute;
+	margin: 0px;
+	margin-right: 0px;
+}
+
+p {
+	margin-top: 50px;
+}
+
+#box {
+	padding: 10px;
+	margin: 40px;
+}
+#Chicken {
+	background-color: white;
+	padding: 10px;
+	position: relative;
+	float: left;
+}
+#Beef {
+	background-color: white;
+	padding: 10px;
+	position: relative;
+	float: left;
+}
+#Sushi {
+	background-color: white;
+	padding: 10px;
+	position: relative;
+	float: left;
+}
+#chicken2 {
+	border: 1px solid black;
+	background-color: red;
+	position: absolute;
+	text-align: center;
+	color: white;
+	top: 0px;
+	right: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 200px;
+}
+
+#beef2 {
+	border: 1px solid black;
+	background-color: red;
+	position: absolute;
+	text-align: center;
+	color: white;
+	top: 0px;
+	right: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 200px;
+}
+
+#sushi2 {
+	border: 1px solid black;
+	background-color: red;
+	position: absolute;
+	text-align: center;
+	color: white;
+	top: 0px;
+	right: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 200px;
+}
